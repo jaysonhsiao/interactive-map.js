@@ -3,7 +3,9 @@ var svgMap = new svgMap({
   data: {
     data: {
       un_other: {},
-      idv:{}
+      idv:{},
+      link: {},
+      
     },
     applyData: 'un_other',
     values: {
@@ -20,7 +22,7 @@ var svgMap = new svgMap({
       AR: { un_other : 0, idv : 0 },
       AM: { un_other : 1, idv : 0 },
       AW: { un_other : 0, idv : 0 },
-      AU: { un_other : 0, idv : 1 },
+      AU: { un_other : 0, idv : 1, https://membercheck-dev.webflow.io/coverage/aml-cft-legislation-in-australia/index2} ,
       AT: { un_other : 0, idv : 1 },
       AZ: { un_other : 0, idv : 0 },
       BS: { un_other : 0, idv : 0 },
